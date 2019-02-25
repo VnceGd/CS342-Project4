@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 3844684420257499840}
   - component: {fileID: 3844684420257499843}
   m_Layer: 5
-  m_Name: Grid Space
-  m_TagString: GridSpace
+  m_Name: Player Space
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,8 +96,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 0.8, b: 0.8039216, a: 1}
-    m_HighlightedColor: {r: 0, g: 0.5019608, b: 1, a: 1}
+    m_NormalColor: {r: 0.72435236, g: 1, b: 0, a: 0.78431374}
+    m_HighlightedColor: {r: 0.35776737, g: 0.8301887, b: 0.05090782, a: 1}
     m_PressedColor: {r: 0.2, g: 0.4, b: 0.4, a: 1}
     m_DisabledColor: {r: 0.21568628, g: 0.25882354, b: 0.3019608, a: 1}
     m_ColorMultiplier: 1
